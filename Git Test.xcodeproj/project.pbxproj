@@ -112,6 +112,7 @@
 		49A1858719B240160077C3CC /* Git Test */ = {
 			isa = PBXGroup;
 			children = (
+				49A185B619B242970077C3CC /* Test */,
 				49A1859019B240160077C3CC /* MBAppDelegate.h */,
 				49A1859119B240160077C3CC /* MBAppDelegate.m */,
 				49A1859319B240160077C3CC /* Main.storyboard */,
@@ -150,6 +151,13 @@
 				49A185A919B240160077C3CC /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		49A185B619B242970077C3CC /* Test */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Test;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
